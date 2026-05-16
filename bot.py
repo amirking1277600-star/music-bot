@@ -88,5 +88,4 @@ async def leave(ctx):
         await ctx.send("❌ أنا مش في روم صوتي!")
 
 # تشغيل البوت بالتوكن المخفي في Railway بأمان
-token = os.environ.get('DISCORD_TOKEN')
-bot.run(token)
+bot.run('MTUwNTE2MDc3Mzg3MjM5MDE3NA.GVfCwh.vHrId43i0hPovjDAGQ0bKeLWnubBZq2nB1AbHA')
